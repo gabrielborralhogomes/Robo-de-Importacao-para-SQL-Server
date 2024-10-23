@@ -1,8 +1,8 @@
-# Automatização da Importação de Dados do Excel para SQL Server
+# Robô de Automatização da Importação de Dados do Excel para o SQL Server
 
 ## Descrição
 
-Este projeto automatiza a importação de dados de arquivos Excel para uma tabela específica em um banco de dados SQL Server. O objetivo é facilitar a carga de dados, garantindo que os registros sejam processados e inseridos corretamente, enquanto lida com dados nulos e tipos de dados.
+Este projeto implementa um robô que automatiza a importação de dados de arquivos Excel para uma tabela específica em um banco de dados SQL Server. O robô é projetado para operar em horários determinados, realizando a carga de dados e, em seguida, entrando em um período de descanso antes de retomar suas atividades. Essa abordagem otimiza o processo de carga, garantindo que os registros sejam processados e inseridos com precisão. Além disso, o robô lida eficientemente com dados nulos e garante a conformidade dos tipos de dados, facilitando a manutenção e a integridade do banco de dados.
 
 ## Funcionalidades
 
@@ -40,4 +40,4 @@ A estrutura do projeto foi organizada de forma a facilitar a navegação e a man
 
 ## Conclusão
 
-Esta estrutura permite uma melhor organização e manutenção do código, facilitando a colaboração entre os desenvolvedores e o acompanhamento do progresso do projeto.
+A estrutura organizada deste projeto não apenas facilita a manutenção e a navegação pelo código, mas também promove a colaboração eficaz entre os desenvolvedores. Com uma documentação clara e comentários informativos no código, os novos contribuidores podem se integrar rapidamente ao trabalho em equipe. O robô de automatização proporciona uma solução eficiente para a carga de dados, garantindo integridade e confiabilidade no processamento de informações, o que é crucial para a operação de um banco de dados em constante atualização.
