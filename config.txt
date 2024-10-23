@@ -1,0 +1,5 @@
+caminho=
+instancia=
+banco=DBMimport
+login=
+senha=
