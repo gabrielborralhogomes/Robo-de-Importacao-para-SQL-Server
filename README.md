@@ -6,7 +6,7 @@ Este projeto implementa um robô que automatiza a importação de dados de arqui
 
 ## Funcionalidades
 
-- Execução programada do robô com controle de horários.
+- Execução programada do robô com controle de carga horários.
 - Tratamento de erros com mensagens informativas.
 - Armazenamento seguro de senhas por meio de criptografia.
 - Leitura de arquivos Excel (.xlsx).
