@@ -32,7 +32,7 @@ Este projeto implementa um robô que automatiza a importação de dados de arqui
 
 A estrutura do projeto foi organizada de forma a facilitar a navegação e a manutenção. Abaixo está uma visão geral dos diretórios e arquivos principais:
 
-- **robot.py**: Este é o script principal que realiza a leitura dos arquivos Excel, o processamento dos dados e a inserção no banco de dados SQL Server. O código está bem comentado, facilitando a compreensão das etapas do processo, detalham a lógica utilizada e as decisões tomadas em cada etapa.
+- **robot.ipynb**: Este é o script principal que realiza a leitura dos arquivos Excel, o processamento dos dados e a inserção no banco de dados SQL Server. O código está bem comentado, facilitando a compreensão das etapas do processo, detalham a lógica utilizada e as decisões tomadas em cada etapa.
 
 - **config.txt**: Arquivo da configuração do SQL Server.
 
